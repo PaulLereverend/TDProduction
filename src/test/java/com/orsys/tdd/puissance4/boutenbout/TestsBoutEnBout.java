@@ -42,6 +42,7 @@ public class TestsBoutEnBout {
 	    texteBouton = ihmJoueur1.lireTexteBoutonAction();
 	    assertEquals( ClientPuissance4.ACTION_CONNECTER_SERVEUR, texteBouton );
 	    ihmJoueur1.fermer();
+	    
 	
 	}
 	
