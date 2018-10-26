@@ -1,0 +1,9 @@
+com\orsy\tdd\puissance4\client\ClientPuissance4.class
+com\orsys\tdd\puissance4\serveur\application\ConfigurateurWebSocket.class
+com\orsys\tdd\puissance4\serveur\application\MonGestionnaireTexteSocket.class
+com\orsys\tdd\puissance4\serveur\application\ServeurPuissance4.class
+com\orsys\tdd\puissance4\serveur\modele\EtatPartie.class
+com\orsy\tdd\puissance4\client\IActionsPuissance4.class
+com\orsy\tdd\puissance4\client\WebSocketClient.class
+com\orsys\tdd\puissance4\serveur\modele\Puissance4Modele.class
+com\orsy\tdd\puissance4\client\ClientPuissance4$1.class

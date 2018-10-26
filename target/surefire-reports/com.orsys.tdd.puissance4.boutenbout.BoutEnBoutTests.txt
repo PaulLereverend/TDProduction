@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.orsys.tdd.puissance4.boutenbout.BoutEnBoutTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.785 s - in com.orsys.tdd.puissance4.boutenbout.BoutEnBoutTests
