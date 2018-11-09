@@ -9,7 +9,7 @@ import org.junit.Test;
 import com.orsys.tdd.puissance4.serveur.modele.Direction;
 import com.orsys.tdd.puissance4.serveur.modele.ModelePuissance4;
 
-public class TestsModelePuissance4 {
+public class TestsModelePuissance4UT {
 	
 	private ModelePuissance4 modele = null;
 	

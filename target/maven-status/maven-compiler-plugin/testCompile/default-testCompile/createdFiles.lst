@@ -1,2 +1,3 @@
-com\orsys\tdd\puissance4\unitaire\Puissance4ModelTests.class
-com\orsys\tdd\puissance4\boutenbout\BoutEnBoutTests.class
+com\orsys\tdd\puissance4\unitaire\TestsModelePuissance4UT.class
+com\orsys\tdd\puissance4\boutenbout\TestsBoutEnBoutIT.class
+com\orsys\tdd\puissance4\acceptation\TestsAcceptationModeleUT.class
