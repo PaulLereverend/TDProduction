@@ -8,5 +8,6 @@ public class ServeurPuissance4 {
 
     public static void main(String[] args) {
         SpringApplication.run(ServeurPuissance4.class, args);
+        
     }
 }
